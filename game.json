@@ -1,0 +1,6 @@
+{
+  "name": "Test Game",
+  "exec": "love .",
+  "thumbnail": "thumbnail.png",
+  "description": "A test game."
+}
