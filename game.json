@@ -3,5 +3,5 @@
   "author": "sunil",
   "exec": "love .",
   "thumbnail": "thumbnail.png",
-  "description": "A test game."
+  "description": "Displays screen resolution and tests controller connectivity."
 }
