@@ -1,5 +1,6 @@
 {
   "name": "Test Game",
+  "version": "1.0.0",
   "author": "sunil",
   "exec": "love .",
   "thumbnail": "thumbnail.png",
